@@ -4,9 +4,17 @@ All the code that are upload in this repositories
 
 CODE LIST
 1. BODMAS(Bracket,Order,Division,Multiplication,Addition,Subtraction)
-2. Age Valodation
+2. Marksheet
 3. Billing Details
 4. Billing Details 2
 5. Calculations
 6. Calculations 2
 7. Calculations 3
+
+
+loopcase
+1. Age Validation(if-else condition)
+2. Even Odd(if-else condition)
+3. Even Odd 2(if-else condition using short method)
+4. Percentage
+5. 
