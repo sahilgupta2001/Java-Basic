@@ -1,5 +1,6 @@
 1. ArrayDemo
 2. ArrayAddNumber
 3. ArrayEvenOdd
-4. Arrayfindmin
-5. Arrayfindmax
+4. Arrayfindmin - Find minimum number in array
+5. Arrayfindmax - Find maximum number in array
+6. OccurrenceofEachcharacterEasy - How many each character had in sentence
