@@ -8,4 +8,11 @@ public class StaticDemo {
  public static void main(String[] args)	{		
   StaticDemo ob = new StaticDemo();		
   StaticDemo ob1 = new StaticDemo();		
-  StaticDemo ob2 = new StaticDemo();	}}
+  StaticDemo ob2 = new StaticDemo();	
+}
+}
+/* console
+11
+11
+11
+*/
