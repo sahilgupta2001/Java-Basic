@@ -1,0 +1,1 @@
+package testingBaba;public class StaticDemo {  static int a = 10;  static  {	  System.out.println("this is static block");  }	public static void staticDemo()	{		a++;		System.out.println(a);	}	public static void main(String[] args)	{			}}
