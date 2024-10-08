@@ -1,0 +1,1 @@
+package array;import java.util.ArrayList;public class ArrayListDemo {	public static void main(String[] args) 	{		ArrayList<Integer> list = new ArrayList<Integer>();				list.add(23);		list.add(34);		ArrayList<Object> list1 = new ArrayList<>();		list1.add(list);						System.out.println(list1);	}}
